@@ -10,6 +10,21 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  ##### Presentation Layer
+  motion_toast:
+  lottie:
+  ##### Application Layer
+  qr_code_scanner: 
+  permission_handler:
+  vibration:
+  shared_preferences:
+  flutter_dotenv:
+  path_provider:
+  ##### State management
+  provider:
+  flutter_launcher_icons:
+  http:
+  rename:
 
 dev_dependencies:
   flutter_test:
