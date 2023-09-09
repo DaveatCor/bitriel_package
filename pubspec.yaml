@@ -11,6 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   ##### Presentation Layer
+  cupertino_icons:
   motion_toast:
   lottie:
   ##### Application Layer
@@ -25,6 +26,7 @@ dependencies:
   flutter_launcher_icons:
   http:
   rename:
+
 
 dev_dependencies:
   flutter_test:
