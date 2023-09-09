@@ -18,9 +18,11 @@ dependencies:
   qr_code_scanner: 
   permission_handler:
   vibration:
-  shared_preferences:
   flutter_dotenv:
   path_provider:
+  ## Local Strage
+  # shared_preferences:
+  flutter_secure_storage:
   ##### State management
   provider:
   flutter_launcher_icons:
