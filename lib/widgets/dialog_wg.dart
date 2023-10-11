@@ -2,7 +2,6 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:lottie/lottie.dart';
 
 /// Set useRootNavigator = false becuase we want dialog near visible navigator.
 dialogLoading(BuildContext context, {String? animationAsset, String? content, bool isDismissable = true, bool useRootNavigator = false}) {
